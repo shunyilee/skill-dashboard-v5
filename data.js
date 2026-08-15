@@ -1414,7 +1414,7 @@ window.DASHBOARD_DATA = {
             },
             {
               text: "YAML 縮排規則",
-              desc: "一律用空格、每層兩格，冒號和減號後面都要有一個空格。",
+              desc: "一律用空格、每層兩格，冒號和減號後面都要有一個空格。dfdgfgfgd",
               done: true,
             },
             {
